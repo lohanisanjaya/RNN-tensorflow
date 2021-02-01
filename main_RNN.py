@@ -1,6 +1,5 @@
 '''Correspondence:
-   SL (slohani@tulane.edu)
-   RTG (rglasser@tulane.edu)
+   Sanjaya Lohani (slohani@tulane.edu)
    Feb 17, 2018'''
 
 from __future__ import print_function, division
